@@ -27,7 +27,8 @@ This project presents an interactive Power BI dashboard designed to analyze e-co
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/<img width="893" height="496" alt="ededed" src="https://github.com/user-attachments/assets/8722bf46-9b79-4847-8b4a-fcc26115c602" />
+)
 
 ## Key Insights
 - Insert your findings here
